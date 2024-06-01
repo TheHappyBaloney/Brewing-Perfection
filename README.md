@@ -1,5 +1,4 @@
 # Brewing Perfection with Convolution Neural Networks and Caffe2
-## Coffee Bean Ripeness Identification with Convolutional Neural Networks
 
 ### Overview:
 This project aims to develop a machine learning model using convolutional neural networks (CNNs) to identify the ripeness of coffee beans based on images. Leveraging the "Coffee Fruit Maturity"[https://www.kaggle.com/datasets/cienciacafeto/coffee-fruit-maturity] dataset from Kaggle, which contains labeled images of coffee cherries at different ripeness levels, the model will be trained to classify coffee beans as unripe, ripe, semi-dry, dry, or overripe.
